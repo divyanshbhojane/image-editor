@@ -1,0 +1,1 @@
+To edit an image, run the 'image editor.py' program select image by adding image path(just write the name of image with format if the image is in same folder.ex:"ex_img.png") it will show you the image you selected and perform the basic operations. 
